@@ -19,7 +19,7 @@ pipeline {
             }
             steps {
                 echo "hello world"
-				echo "hello ajay"
+	        echo "hello ajay"
             }
         }
     }
