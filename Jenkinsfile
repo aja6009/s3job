@@ -18,7 +18,8 @@ pipeline {
                 }
             }
             steps {
-                echo "hello"
+                echo "hello world"
+				echo "hello ajay"
             }
         }
     }
